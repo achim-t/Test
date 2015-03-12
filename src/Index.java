@@ -18,6 +18,6 @@ public class Index extends HttpServlet {
 			HttpServletResponse response) throws ServletException, IOException {
 
 		 
-		Auth.authorize(response);
+//		Auth.authorize(response);
 	}
 }
